@@ -11,7 +11,7 @@ const activities = [
     period: "2024-present",
     description: "organizing educational training programs and overseeing the development and execution of projects in the fields of software development and data science.",
     icon: FaUsers,
-    logo: "/CODEXX.png?height=100&width=100", // Replace with actual CODEX logo
+    logo: "/codexx.png?height=100&width=100", // Replace with actual CODEX logo
     color: "from-blue-400 to-purple-500",
   },
   {
@@ -29,7 +29,7 @@ const activities = [
     period: "2022-2024",
     description: "Led a team responsible for managing a physical library, overseeing book cataloging, membership handling, and daily operations. Ensured smooth circulation of books and provided an organized system for library users. Additionally, managed the library's social media presence to engage the community",
     icon: FaBook,
-    logo: "/Rofof.jpg?height=100&width=100", 
+    logo: "/rofof.jpg?height=100&width=100", 
     color: "from-royal-blue to-blue-900",
   },
 ]
